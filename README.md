@@ -1,1 +1,1 @@
-# obsidian-happiness-theme
+# Obsidian Happiness Theme
